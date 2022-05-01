@@ -1,0 +1,13 @@
+['FI'] = {
+    ['settings_description'] = 'Avaa Mittariston muokkaus menu',
+    ['seatbelt_description'] = 'Vaihda Turvavuön kiinitys',
+    ['cruise_description'] = 'Vaihda Vakionopeudensäädin',
+    ['togglecarhud_description'] = 'Vaihda Mittariston muokkaus menu',
+    ['seatbelt_on'] = 'Tyrvavyö kytketty',
+    ['seatbelt_off'] = 'Turvavyö avattu',
+    ['no_seatbelt'] = 'Tässä Ajoneuvossa ei ole turvavyötä',
+    ['cruisecontrol_on'] = 'Vakionopeudensäädin Päälä',
+    ['cruisecontrol_off'] = 'Vakionopeudensäädin Poispäältä',
+    ['no_vehicle_found'] = 'Et ole ajoneuvon Kyydissä',
+    ['remind_settings'] = 'Paina %s avataksesi auton mittarisoton muokkaus menu',
+},

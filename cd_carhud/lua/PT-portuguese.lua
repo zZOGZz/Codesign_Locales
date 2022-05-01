@@ -1,0 +1,13 @@
+['PT'] = {
+    ['settings_description'] = 'Abra a IU de configurações do Car Hud',
+    ['seatbelt_description'] = 'Alterne o cinto de segurança',
+    ['cruise_description'] = 'Alternar controle de cruzeiro',
+    ['togglecarhud_description'] = 'Alternar a IU do carro hud',
+    ['seatbelt_on'] = 'Cinto de segurança habilitado',
+    ['seatbelt_off'] = 'Desativar cinto de segurança',
+    ['no_seatbelt'] = 'Este veículo não tem cinto de segurança',
+    ['cruisecontrol_on'] = 'Controle de cruzeiro ativado',
+    ['cruisecontrol_off'] = 'Controle de cruzeiro desativado',
+    ['no_vehicle_found'] = 'Você não está em um veículo',
+    ['remind_settings'] = 'Pressione %s para abrir a IU de configurações para personalizar o HUD do seu carro',
+},

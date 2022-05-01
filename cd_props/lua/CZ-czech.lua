@@ -1,0 +1,10 @@
+['CZ'] = {
+    ['vehicle_destroyed'] = 'Toto vozidlo je zničeno',
+    ['get_closer'] = 'Přibližte se ke kufru',
+    ['menu_closed'] = 'Nabídka předmětů se zavřela, protože jste se příliš vzdálili od vozidla.',
+    ['prop_already_attached'] = 'Již už držíte v ruce rekvizitu',
+    ['networking_failed'] = 'Nepodařilo se vyžádat řízení sítě - zkuste to prosím znovu',
+    ['registering_network'] = 'Vyžádání kontroly sítě',
+    ['requesting_netid'] = 'Žádost o kontrolu síťového ID',
+    ['not_emergancy_vehicle'] = 'Rekvizity můžete vzít pouze z nouzového vozidla.',
+},

@@ -1,0 +1,70 @@
+PT: {
+    LOADING: "Carregando ...",
+
+    FINANCE_BUTTON: "Finanças",
+    FINANCE_TITLE: "Veículo financeiro",
+    FINANCE_LEFT: "Finanças restantes:",
+    FINANCE_LAST_PAYMENT: "Último pagamento:",
+    FINANCE_NEXT_PAYMENT: "Próximo pagamento:",
+    FINANCE_ACTION: "Pague",
+    FINANCE_DESCRIPTION:
+      "Insira a quantia que você deseja aplicar no financiamento de veículos.",
+    FINANCE_SUBMIT: "Enviar",
+    FINANCE_CLOSE: "Fechar",
+    FINANCE_LESS_THAN_ZERO: "Você não pode enviar menos de 0 dinheiro.",
+    FINANCE_INVALID_AMMOUNT: "Você precisa inserir um valor válido.",
+
+    TRANSFER_BUTTON: "Transferir",
+    TRANSFER_TITLE: "Transferir veículo",
+    TRANSFER_TO: "Transferir para",
+    TRANSFER_DESCRIPTION:
+      "Insira o ID da pessoa para quem você está transferindo este veículo.",
+    TRANSFER_SUBMIT: "Enviar",
+    TRANSFER_CLOSE: "Fechar",
+    TRANSFER_INVALID_ID: "ID de jogador inválido.",
+
+    IMPOUND_CIV_NOTIFICATION: "Retirar um veículo custa $ 500.",
+    IMPOUND_SELECT: "Selecione um represamento",
+    IMPOUND_SPAWN: "Veículo de criação",
+    IMPOUND_RETURN: "Devolver ao proprietário",
+    IMPOUND_NOTIFICATION: "This vehicle can only be returned by an officer",
+    IMPOUND_TIME: "hour(s)",
+
+    OUTSIDE_TAKEOUT: "Retire",
+    OUTSIDE_RETURN: "Retorne por $",
+    OUTSIDE_ENGINE: "Motor",
+    OUTSIDE_FUEL: "Combustível",
+    OUTSIDE_BODY: "Corpo",
+    OUTSIDE_IMPOUND_NO_VEHICLES: "Não há veículos nesta apreensão.",
+    OUTSIDE_NO_VEHICLES: "Você não tem veículos.",
+    OUTSIDE_SEARCH_PLACEHOLDER:
+      "Pesquise os veículos por placa, nome ou garagem",
+    OUTSIDE_TOTAL_VEHICLES: "Total de veículos: ",
+
+    INSIDE_UPGRADES: "Atualizações de veículos",
+    INSIDE_UPGRADES_ENGINE: "Motor",
+    INSIDE_UPGRADES_BRAKES: "Freios",
+    INSIDE_UPGRADES_SUSPENSION: "Suspensão",
+    INSIDE_UPGRADES_TRANSMISSION: "Transmissão",
+    INSIDE_UPGRADES_TURBO: "Turbo",
+    INSIDE_STATS: "Estatísticas e saúde do veículo",
+    INSIDE_STATS_HANDLING: "Manuseio",
+    INSIDE_STATS_ACCELERATION: "Aceleração",
+    INSIDE_STATS_BRAKES: "Freios",
+    INSIDE_STATS_BODY: "Saúde corporal",
+    INSIDE_STATS_ENGINE: "Saúde do motor",
+    INSIDE_STATS_FUEL: "Nível de combustível",
+    INSIDE_STATS_SPEED: "Velocidade",
+    INSIDE_STATS_SCORE: "Pontuação geral",
+    INSIDE_STATS_SCORE_TEXT: " SCORE",
+
+    SEARCH_BUTTON: "Procurar",
+
+    CURRENCY_SYMBOL: "$",
+    KEYS_NO_KEYS: "You haven't given out any keys.",
+    KEYS_REMOVE: "Remove key",
+    KEYS_SEARCH: "Name or vehicle plate",
+    KEYS_FOOTER: ["Total of ", " keys"],
+
+    ACTIONBAR_TEXT: ["You have", "chance(s) left."]
+  },

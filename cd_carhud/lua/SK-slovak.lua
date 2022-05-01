@@ -1,0 +1,13 @@
+['SK'] = {
+    ['settings_description'] = 'Otvorte nastavenia',
+    ['seatbelt_description'] = 'Zapnite si bezpečnostný pás',
+    ['cruise_description'] = 'Prepnúť tempomat',
+    ['togglecarhud_description'] = 'Otvorte nastavenia Car Hudu',
+    ['seatbelt_on'] = 'Máte bezpečnostný pás',
+    ['seatbelt_off'] = 'Nemáte bezpečnostný pás',
+    ['no_seatbelt'] = 'Toto vozidlo nemá bezpečnostný pás',
+    ['cruisecontrol_on'] = 'Tempomat aktivovaný',
+    ['cruisecontrol_off'] = 'Tempomat deaktivovaný',
+    ['no_vehicle_found'] = 'Nie ste vo vozidle!',
+    ['remind_settings'] = 'Stlačením %s otvoríte Car HUD',
+},
