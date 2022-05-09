@@ -9,5 +9,5 @@
     ['cruisecontrol_on'] = 'Tempomat aktiviert',
     ['cruisecontrol_off'] = 'Tempomat deaktiviert',
     ['no_vehicle_found'] = 'Du bist derzeit in keinem Fahrzeug',
-    ['remind_settings'] = 'Drücke % s, um die Benutzeroberfläche der Einstellungen zu öffnen und die Car HUD anzupassen',
+    ['remind_settings'] = 'Drücke %s, um die Benutzeroberfläche der Einstellungen zu öffnen und die Car HUD anzupassen',
 },
