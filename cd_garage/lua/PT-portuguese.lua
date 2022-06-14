@@ -65,7 +65,7 @@
     --Client
     ['garage'] = 'Garagem',
     ['property'] = 'Proproedade',
-    ['notif_exitgarage'] = 'Clica [E] para sair da garagem',
+    ['notif_exitgarage'] = '<b>Garage</b></p>Press [E] to exit the garage',
     ['no_permissions_impound'] = 'Não tens permissões para usar os apreendidos',
     ['cant_enter_invehicle'] = 'Não podes entrar na garagem com este veículo',
     ['debug_insidegarage'] = 'O id de garagem para um dos teus veículos é nula (Inside) - por favor reporta a um administrador',

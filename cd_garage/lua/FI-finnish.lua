@@ -65,7 +65,7 @@
     --Client
     ['garage'] = 'Autotalli',
     ['property'] = 'Talo',
-    ['notif_exitgarage'] = 'Paina [E] poistuaksesi autotallista',
+    ['notif_exitgarage'] = '<b>Garage</b></p>Press [E] to exit the garage',
     ['no_permissions_impound'] = 'Sinulla ei ole oikeuksia käyttää takavarikkoa',
     ['cant_enter_invehicle'] = 'Et voi mennä tähän autotalliin ajoneuvossasi',
     ['debug_insidegarage'] = 'Yhden ajoneuvosi autotallin tunnus on nolla - tee virheilmoitus, jotta kehittäjä voi korjata sen',

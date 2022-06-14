@@ -67,7 +67,7 @@
     --Client
     ['garage'] = 'Garage',
     ['property'] = 'Eigentum',
-    ['notif_exitgarage'] = 'Drücke [E], um Garage zu betreten',
+    ['notif_exitgarage'] = '<b>Garage</b></p>Press [E] to exit the garage',
     ['no_permissions_impound'] = 'Du hast nicht die Berechtigung, um zu beschlagnahmen',
     ['cant_enter_invehicle'] = 'Du kannst nicht in diesem Fahrzeug die Garage betreten',
     ['debug_insidegarage'] = 'Die GarageID für alle deine Fahrzeuge ist Null - bitte mach einen Bugreport, damit sich ein Developer darum kümmern kann',

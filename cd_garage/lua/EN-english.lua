@@ -65,7 +65,7 @@
     --Client
     ['garage'] = 'Garage',
     ['property'] = 'Property',
-    ['notif_exitgarage'] = 'Press [E] to exit the garage',
+    ['notif_exitgarage'] = '<b>Garage</b></p>Press [E] to exit the garage',
     ['no_permissions_impound'] = 'You do not have permission to use the impound',
     ['cant_enter_invehicle'] = 'You can not enter this garage in your vehicle',
     ['debug_insidegarage'] = 'The garage id for one of your vehicles is nill - please make a bug report so a developer can fix it',

@@ -65,7 +65,7 @@
     --Client
     ['garage'] = 'Garage',
     ['property'] = 'Egendom',
-    ['notif_exitgarage'] = 'Tryck [E] för att lämna garaget',
+    ['notif_exitgarage'] = '<b>Garage</b></p>Press [E] to exit the garage',
     ['no_permissions_impound'] = 'Du har inte tillstånd att använda belsagsplatsen',
     ['cant_enter_invehicle'] = 'Du kan inte gå in i garaget med fordonet',
     ['debug_insidegarage'] = 'Garage id för en av dina fordon är nill - gör en bugg report så att en utvecklare kan fixa det',

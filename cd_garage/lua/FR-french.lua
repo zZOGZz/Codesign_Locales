@@ -65,7 +65,7 @@
     --Client
     ['garage'] = 'Garage',
     ['property'] = 'Propriété',
-    ['notif_exitgarage'] = 'Appuyez sur [E] pour sortir du garage',
+    ['notif_exitgarage'] = '<b>Garage</b></p>Press [E] to exit the garage',
     ['no_permissions_impound'] = 'Vous n\'avez pas la permission d\'utiliser la fourrière',
     ['cant_enter_invehicle'] = 'Vous ne pouvez pas entrer dans le garage avec votre véhicule',
     ['debug_insidegarage'] = 'L\'identifiant de garage pour l\'un de vos véhicules est nul - veuillez faire un rapport de bug afin qu\'un développeur puisse le corriger',

@@ -65,7 +65,7 @@
     --Client
     ['garage'] = 'Garage',
     ['property'] = 'Eigendom',
-    ['notif_exitgarage'] = 'Druk [E] om de garage te verlaten',
+    ['notif_exitgarage'] = '<b>Garage</b></p>Press [E] to exit the garage',
     ['no_permissions_impound'] = 'U heeft geen toestemming om de inbeslagname te gebruiken',
     ['cant_enter_invehicle'] = 'U kunt deze garage niet in uw voertuig betreden',
     ['debug_insidegarage'] = 'De garage-ID voor een van uw voertuigen is nill - maak een bug report zodat een ontwikkelaar het kan oplossen',

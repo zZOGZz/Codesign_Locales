@@ -65,7 +65,7 @@
     --Client
     ['garage'] = 'Garáž',
     ['property'] = 'Nehnuteľnosť',
-    ['notif_exitgarage'] = 'Stlačením [E] opustíte garáž',
+    ['notif_exitgarage'] = '<b>Garage</b></p>Press [E] to exit the garage',
     ['no_permissions_impound'] = 'Nemáte povolenie na použitie zabavenia',
     ['cant_enter_invehicle'] = 'Do tejto garáže nemôžete vstúpiť vo svojom vozidle',
     ['debug_insidegarage'] = 'ID garáže pre jedno z vašich vozidiel je nulové – nahláste chybu, aby ju vývojár mohol opraviť',
